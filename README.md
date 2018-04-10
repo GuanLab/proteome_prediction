@@ -6,9 +6,9 @@ It includes 1.data pre-process 2.model comparison (based on five-fold cross vali
 
 background: [NCI-CPTAC DREAM](https://www.synapse.org/#!Synapse:syn8228304/wiki/)
 
-see also: [Hongyang Li and Yuanfang Guan solution](https://www.synapse.org/#!Synapse:syn11522015/wiki/496744)  [Docker](https://www.synapse.org/#!Synapse:syn11522015/docker/)
+see also: [Hongyang Li and Yuanfang Guan solution](https://www.synapse.org/#!Synapse:syn11522015/wiki/496744) and [Docker](https://www.synapse.org/#!Synapse:syn11522015/docker/)
 
-Warning! You need to download the challenge **DATA** and put them into ./sub2/data/raw/ before running the codes
+Warning! You need to download the challenge [DATA](https://www.synapse.org/#!Synapse:syn10139526) and put them into ./sub2/data/raw/ before running the codes
 
 Usage:
 
